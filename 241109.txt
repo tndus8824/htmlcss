@@ -1,0 +1,26 @@
+2024년 11월 9일 (토요일)
+1. 반응형 웹
+
+그리드 시스템
+
+UI/Ux
+
+UI가  (디자인) 시각적으로
+UX유저가 직감적으로 서비스가 불편하다는걸 아는것.(사용자가 불편해요).
+반응형/고정형
+
+html-웹문서-뼈대-언어X
+CSS-뼈대에서 붙힌 살
+java script-브라우저가 있는 언어,동영상,dom탐색(여러개탐색)
+jquery-함수,무거워,필요,라이브러리(정리)
+
+
+레이아웃
+
+header/content/footer
+
+부모요소/자식요소
+
+div class=parents
+div class=child01    div class=child 02 <01과 02는 형제요소>           
+div clss=grandC     div class= grandC
